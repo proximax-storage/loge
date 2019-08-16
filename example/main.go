@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/potakhov/loge"
+	"github.com/proximax-storage/loge"
 )
 
 type customTransport struct {

@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/potakhov/cache"
+	"github.com/proximax-storage/cache"
 )
 
 // TransactionList defines a generalized interface to the transaction list
